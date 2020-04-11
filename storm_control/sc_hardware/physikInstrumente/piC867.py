@@ -3,8 +3,6 @@
 """
 Connect to a PI stage using two C-867 PI controllers and a M-686.D64 translation stage
 
-Behnam Abaie, April, 2020
-
 Notes: 
 This module requires the PIPython library that ships with the PI controllers and is 
 accessible online by User Name and Password.
